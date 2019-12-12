@@ -32,7 +32,7 @@ const question1 = new Question("How can you obtain a shiny charm in Pokemon game
 const question2 = new Question("Which of the following is a starter in Pokemon Sword/Shield", 2, ["Blaziken", "Torchic", "Grookey", "Conkeldurr"]);
 const question3 = new Question("Which of the following is super effective against ghost type Pokemon", 0, ["Ghost", "Normal", "Fire", "Fairy"])
 const question4 = new Question("Which of these types is super effective against Dragon type Pokemon", 3, ["Pikachu", "Normal", "Ground", "Fairy"])
-const question5 = new question("Which of the following pokemon is not a starter from the Hoenn Region (Gen3/Ruby/Sapphire)", 2, ["Mudkip", "Torchic", "Treecko", "Piplup"])
+const question5 = new Question("Which of the following pokemon is not a starter from the Hoenn Region (Gen3/Ruby/Sapphire)", 2, ["Mudkip", "Torchic", "Treecko", "Piplup"])
 
 const qArray = [question1, question2, question3, question4];
 
