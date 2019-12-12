@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-image: url(https://res.cloudinary.com/drfxvc5vk/image/upload/v1575926786/201993_o2mhy3.jpg)
+}
+
+.body-content {
+    display: flex;
+    margin: auto;
+    min-height: 80vh;
+    flex-direction: column;
+}
+
+#question {
+    display: flex;
+    align-self: flex-start;
+}
+
+.answers {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    margin: auto;
+}
+
+header {
+    flex-direction: row;
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+#timer {
+    order: -1;
+}
+
+#score {
+    justify-content: flex-end;
+    order: 1;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
