@@ -2,7 +2,8 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    background-image: url(https://res.cloudinary.com/drfxvc5vk/image/upload/v1575926786/201993_o2mhy3.jpg)
+    background-image: url(https://res.cloudinary.com/drfxvc5vk/image/upload/v1575926786/201993_o2mhy3.jpg);
+    font-family: 'press start 2P';
 }
 
 .body-content {
@@ -21,7 +22,14 @@ body {
     display: flex;
     flex: 1 1 auto;
     flex-direction: column;
-    margin: auto;
+    margin: 10px auto;
+}
+
+#nextQuestion {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    margin: 50px auto;
 }
 
 header {
