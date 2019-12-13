@@ -3,6 +3,8 @@ pokemonTrivia
 
 Here's the Pokemon Trivia game! It's a fully developed app built using primarily Javascript with no additional libraries. Test your Pokemon trivia knowledge, and be scored on how good of a trainer you are!
 
+It's written in CSS/HTML, and has Javascript DOM manipulation changing the elements on the page.
+
 PS: It's responsive, so go ahead and give it a try on your phone, or tablet!
 
 ## Looking to the Future
