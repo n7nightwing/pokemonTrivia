@@ -7,6 +7,10 @@ It's written in CSS/HTML, and has Javascript DOM manipulation changing the eleme
 
 PS: It's responsive, so go ahead and give it a try on your phone, or tablet!
 
+Questions Class: Every question is coded in here in the form of a Questions class. Each class has a constructor of question, correct, and answers.
+
+Answers: Answers within the questions class is an array, so that way it's easier to work with the potential answers.
+UpdateQuestion: this is a method within the questions class, that will populate the questions/answers divs with the correct information for that question.
 
 ## Looking to the Future
 
